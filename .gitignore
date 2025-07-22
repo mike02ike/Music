@@ -1,4 +1,14 @@
-genre_trends.png
-library.xml
-library.csv
+# Virtual environment
 myvenv/
+
+# Ignore all CSVs except the sample
+*.csv
+!library_sample.csv
+
+# Ignore all XMLs except the sample
+*.xml
+!Library_sample.xml
+
+# Ignore all PNGs except the sample chart
+*.png
+!genre_trends_sample.png
