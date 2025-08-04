@@ -1,14 +1,11 @@
 # Virtual environment
 myvenv/
 
-# Ignore all CSVs except the sample
+# Ignore all CSVs
 *.csv
-!library_sample.csv
 
-# Ignore all XMLs except the sample
+# Ignore all XMLs
 *.xml
-!Library_sample.xml
 
-# Ignore all PNGs except the sample chart
+# Ignore all PNGs
 *.png
-!genre_trends_sample.png
