@@ -11,9 +11,9 @@ This project analyzes your Apple Music listening data and generates visualizatio
    - Save the exported file as `Library.xml`.
 
 2. **Insert the XML**
-   - Place your exported file inside the `docs/` directory of this project:
+   - Place your exported file inside the `data/` directory of this project:
      ```
-     /docs/Library.xml
+     /data/Library.xml
      ```
 
 3. **Install Requirements**

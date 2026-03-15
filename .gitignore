@@ -9,3 +9,6 @@ myvenv/
 
 # Ignore all PNGs
 *.png
+
+# macOS metadata
+.DS_Store
